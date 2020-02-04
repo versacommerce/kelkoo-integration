@@ -6,7 +6,7 @@
 # Kelkoo Integration for VersaCommerce
 
 ## Kelkoo
-Kelkoo Sales Tracking is our new Tracking-System. You can view all your Kelkoo-Click- and Salesdata in the Kelkoo Merchant Extranet. The Data is updated daily.
+Kelkoo Sales Tracking is our new Tracking-System. You can view all your Kelkoo-Click- and Sales data in the Kelkoo Merchant Extranet. The Data is updated daily.
 
 ## VersaCommerce
 
