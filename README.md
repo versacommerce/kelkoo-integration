@@ -1,7 +1,4 @@
 [<img src="versacommerce.png" width="250px" align="right" alt="VersaCommerce.de">](https://www.versacommerce.de/?utm_source=github)
-<!--[<img src="XXXXX.png" width="250px" align="right" alt="XXXXX">](https://www..de/?utm_source=www.versacommerce.de)-->
-
-[VersaCommerce] [integration] [javascript] [Kelkoo]
 
 # Kelkoo Integration for VersaCommerce
 
